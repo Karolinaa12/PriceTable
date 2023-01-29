@@ -10,9 +10,11 @@ body {
   align-items: center;
   min-height: 100vh;
 }
-
+ul {
+  padding: 0;
+}
 li {
-  list-style-type: none;
+  list-style: none;
 }
 
 .panel {
